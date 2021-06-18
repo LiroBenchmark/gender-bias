@@ -4,7 +4,7 @@ Given the growing concern about the negative impact that gender-biased language 
 
 ## Credits ##
 
-- The experiment was adapted from the [original](https://github.com/shaoxia57/Bias_in_Gendered_Languages) experiment for Romanian language.
+- The experiment was adapted for Romanian language from the [original experiment](https://github.com/shaoxia57/Bias_in_Gendered_Languages) showcased for Spanish and French.
 - All the credits for adapting and running the experiments goes to [Beata Lorincz](https://github.com/lorinczb).
 
 ## References ##
