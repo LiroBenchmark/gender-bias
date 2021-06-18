@@ -1,6 +1,6 @@
 # Romanian language embeddings debiasing #
 
-Given the growing concern about the negative impact that gender-biased language embeddings may have in practical applications, we measure the gender bias in existing Romanian language embeddings using the method proposed in <a id="a1">[1](#f1)</a> for languages with grammatical gender, and invite contributors to submit debiasing methods that can lower the gender bias in existing embeddings, or submit less biased embeddings.
+Given the growing concern about the negative impact that gender-biased language embeddings may have in practical applications, we measure the gender bias in existing Romanian language embeddings using the method proposed in <a id="a1">[[1]](#f1)</a> for languages with grammatical gender, and invite contributors to submit debiasing methods that can lower the gender bias in existing embeddings, or submit less biased embeddings.
 
 ## Credits ##
 
